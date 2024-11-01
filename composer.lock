@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "fab533d41ebfb888c0292a3967d587ce",
+    "packages": [
+        {
+            "name": "vuzzu/utilizer-ui-elements",
+            "version": "v0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vuzzu/utilizer-ui-elements.git",
+                "reference": "b868596bb372f009c4cbf01d677bd50e188985df"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vuzzu/utilizer-ui-elements/zipball/b868596bb372f009c4cbf01d677bd50e188985df",
+                "reference": "b868596bb372f009c4cbf01d677bd50e188985df",
+                "shasum": ""
+            },
+            "type": "library",
+            "license": [
+                "GPL 2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Mentor Gashi",
+                    "email": "mentorgashi@vuzzu.net"
+                }
+            ],
+            "description": "Library for WordPress admin user interface elements, for a world with smart inputs",
+            "support": {
+                "source": "https://github.com/vuzzu/utilizer-ui-elements/tree/v0.2",
+                "issues": "https://github.com/vuzzu/utilizer-ui-elements/issues"
+            },
+            "time": "2015-04-08 23:28:24"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

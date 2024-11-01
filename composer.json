@@ -1,0 +1,11 @@
+{
+    "repositories": [
+      {
+        "type": "vcs",
+        "url":  "https://github.com/vuzzu/utilizer-ui-elements"
+      }
+    ],
+    "require": {
+        "vuzzu/utilizer-ui-elements": "~0.2"
+    }
+}

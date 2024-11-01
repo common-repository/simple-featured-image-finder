@@ -1,0 +1,11 @@
+{
+    "name": "vuzzu/utilizer-ui-elements",
+    "description": "Library for WordPress admin user interface elements, for a world with smart inputs",
+    "license": "GPL 2.0",
+    "authors": [
+        {
+            "name": "Mentor Gashi",
+            "email": "mentorgashi@vuzzu.net"
+        }
+    ]
+}
